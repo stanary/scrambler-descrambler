@@ -1,2 +1,2 @@
 # descrambler
-hardware design descrambler
+hardware design descrambler andscrambler
